@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Datatraits with Jekyll Homepage!"
 date:   2016-07-28 10:10:17 +1000
 categories: jekyll update
 ---

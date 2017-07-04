@@ -6,12 +6,13 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Datatraits Home
+title: Datatraits!
 email: admin@datatraits.com
 description: > # this means to ignore newlines until "baseurl:"
-  Datatraits : World is full of Data being produced at X-rate/day(TODO: Provide link). It's a 
-  matter of choosing the right combination of 1st/2nd/3rd party data for your business.
-  We help provide the best traits for your data and build businesses around them
+  Datatraits : World is full of Data being produced at 2.5 quintillion bytes/day. 
+  It's a matter of choosing the right combination of 1st / 2nd / 3rd party data 
+  for your business. We help grow your business utilizing machine / deep learning 
+  techniques
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://datatraits.com" # the base hostname & protocol for your site
 twitter_username: datatraits
@@ -19,3 +20,4 @@ github_username:  ccdatatraits
 
 # Build settings
 markdown: kramdown
+permalink: pretty

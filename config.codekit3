@@ -89,11 +89,41 @@
 		"oAP": "\/_layouts\/post.html",
 		"oF": 0
 		},
-	"\/_posts\/2016-07-28-datatraits.markdown": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_posts\/2016-07-28-datatraits.markdown",
-		"oF": 0
+	"\/_posts\/2012-05-17-datatraits.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/_posts\/2012-05-17-datatraits.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_posts\/2017-06-30-golang-discovery.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/_posts\/2017-06-30-golang-discovery.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
 		},
 	"\/_sass\/_base.scss": {
 		"aP": 0,
@@ -133,6 +163,24 @@
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
+		},
+	"\/_site\/2012\/05\/17\/datatraits\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/2012\/05\/17\/datatraits\/index.html",
+		"oF": 0
+		},
+	"\/_site\/2017\/06\/30\/golang-discovery\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/2017\/06\/30\/golang-discovery\/index.html",
+		"oF": 0
+		},
+	"\/_site\/about.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/about.html",
+		"oF": 0
 		},
 	"\/_site\/about\/index.html": {
 		"ft": 8192,
@@ -188,12 +236,6 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_site\/index.html",
-		"oF": 0
-		},
-	"\/_site\/jekyll\/update\/2016\/07\/28\/datatraits.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/jekyll\/update\/2016\/07\/28\/datatraits.html",
 		"oF": 0
 		},
 	"\/_site\/LICENSE.md": {
